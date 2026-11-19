@@ -19,3 +19,4 @@ Thumbs.db
 
 # Third party (download separately)
 third_party/json.hpp
+build-mlir/
